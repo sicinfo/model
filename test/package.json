@@ -1,0 +1,11 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "model.test.js",
+  "scripts": {
+    "test": "node model.test.js"
+  },
+  "author": "Moreira",
+  "license": "ISC"
+}
