@@ -1,5 +1,8 @@
 ## SicinfoModel
 
+### [0.0.4] 2018-03-08
+- corrige model.fetch
+
 ### [0.0.3] 2018-03-08
 - corrige sync.url
 
