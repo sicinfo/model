@@ -1,5 +1,8 @@
 ## SicinfoModel
 
+### [0.0.5] 2018-03-08
+- corrige Sync.fetch, Sync.sync
+
 ### [0.0.4] 2018-03-08
 - corrige model.fetch
 
