@@ -1,5 +1,8 @@
 ## SicinfoModel
 
+### [0.0.7] 2018-04-02
+- corrige sync.url
+
 ### [0.0.6] 2018-03-08
 - corrige sync.url
 
