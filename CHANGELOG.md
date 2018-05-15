@@ -1,5 +1,9 @@
 ## SicinfoModel
 
+### [Unreleased] feature tjgo
+- melhorias para Collections
+
+
 ### [0.0.7] 2018-04-02
 - corrige sync.url
 
