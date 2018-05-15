@@ -1,5 +1,10 @@
 ## SicinfoModel
 
+### [0.1.0] [2018-05-15] Moreira
+- melhorias para Collection e Model
+- Sync.parse recursivo
+
+
 ### [0.0.7] 2018-04-02
 - corrige sync.url
 
