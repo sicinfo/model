@@ -1,4 +1,12 @@
-## SicinfoModel
+## sicinfo-model
+
+### [0.1.1] [2018-05-27] Moreira
+#### altera Model
+- inclui
+```
+get attributes()
+```
+
 
 ### [0.1.0] [2018-05-15] Moreira
 - melhorias para Collection e Model
