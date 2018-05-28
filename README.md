@@ -1,2 +1,1 @@
-# Model
-Model
+# sicinfo-model
