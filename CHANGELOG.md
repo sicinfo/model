@@ -1,5 +1,9 @@
 ## sicinfo-model
 
+### [0.1.2] [2018-06-21] Moreira
+#### corrige
+- Sync.url sequencia para monta url: param seguido de query
+
 ### [0.1.1] [2018-05-27] Moreira
 #### altera Model
 - inclui
