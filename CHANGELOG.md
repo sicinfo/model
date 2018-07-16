@@ -1,5 +1,21 @@
 ## sicinfo-model
 
+### [0.2.0] [2018-06-21] Moreira
+#### corrige 
+- save method
+
+#### inclui
+- delete method
+
+#### altera
+- static send method
+- static fetch method
+- static sync method
+
+### [0.1.2] [2018-06-21] Moreira
+#### incluir
+- save no model
+
 ### [0.1.2] [2018-06-21] Moreira
 #### corrige
 - Sync.url sequencia para monta url: param seguido de query
